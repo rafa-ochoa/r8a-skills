@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-labelledby="title description">
+  <title id="title">Judgment-led delivery: decide, build, refine, verify</title>
+  <desc id="description">A four-step product engineering loop. Decide what matters, build a working slice, refine the experience, and verify review readiness. AI accelerates implementation; human judgment guides the outcome.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#101426"/><stop offset="100%" stop-color="#080c18"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a786ff"/><stop offset="50%" stop-color="#f692c8"/><stop offset="100%" stop-color="#65dfd6"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0%" stop-color="#ae6bed" stop-opacity=".27"/><stop offset="100%" stop-color="#ae6bed" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <circle cx="1070" cy="90" r="345" fill="url(#glow)"/>
+  <circle cx="155" cy="530" r="260" fill="url(#glow)" opacity=".35"/>
+  <path d="M62 38h1076" stroke="#64708c" stroke-opacity=".28"/>
+  <path d="M62 590h1076" stroke="#64708c" stroke-opacity=".28"/>
+  <text x="62" y="88" fill="#d5c9ff" font-size="23" font-family="Arial,Helvetica,sans-serif" letter-spacing="1" font-weight="700">r8a-skills</text>
+  <text x="1138" y="88" fill="#c3ccdf" text-anchor="end" font-size="15" letter-spacing="2" font-family="Arial,Helvetica,sans-serif" font-weight="700">01 / PRODUCT ENGINEERING</text>
+  <text x="62" y="167" fill="#ffffff" font-size="60" font-family="Arial,Helvetica,sans-serif" font-weight="800" letter-spacing="-1.8">Judgment-led delivery</text>
+  <text x="64" y="210" fill="#bcc7dd" font-size="23" font-family="Arial,Helvetica,sans-serif">AI makes building faster. Judgment makes it worth shipping.</text>
+  <rect x="60" y="260" width="250" height="238" rx="22" fill="#222441" stroke="#9889ff" stroke-opacity=".65" stroke-width="1.8"/>
+  <rect x="337" y="260" width="250" height="238" rx="22" fill="#193439" stroke="#71dbce" stroke-opacity=".65" stroke-width="1.8"/>
+  <rect x="614" y="260" width="250" height="238" rx="22" fill="#38253c" stroke="#fa9cc3" stroke-opacity=".65" stroke-width="1.8"/>
+  <rect x="891" y="260" width="250" height="238" rx="22" fill="#243148" stroke="#85cafa" stroke-opacity=".65" stroke-width="1.8"/>
+  <circle cx="98" cy="304" r="20" fill="#a992ff"/><circle cx="375" cy="304" r="20" fill="#81e1d2"/><circle cx="652" cy="304" r="20" fill="#ffabcb"/><circle cx="929" cy="304" r="20" fill="#8fcbff"/>
+  <g fill="#151827" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="20" text-anchor="middle"><text x="98" y="311">1</text><text x="375" y="311">2</text><text x="652" y="311">3</text><text x="929" y="311">4</text></g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#ffffff" font-size="29" font-weight="800"><text x="83" y="376">DECIDE</text><text x="360" y="376">BUILD</text><text x="637" y="376">REFINE</text><text x="914" y="376">VERIFY</text></g>
+  <g font-family="Arial,Helvetica,sans-serif" fill="#dce2f0" font-size="18"><text x="83" y="417">Real user</text><text x="83" y="445">Real problem</text><text x="360" y="417">Functional slice</text><text x="360" y="445">Real code</text><text x="637" y="417">Experience</text><text x="637" y="445">Fit and finish</text><text x="914" y="417">Quality evidence</text><text x="914" y="445">Review readiness</text></g>
+  <g fill="none" stroke="#d4dcf3" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round"><path d="M315 380h17m-7-7 7 7-7 7"/><path d="M592 380h17m-7-7 7 7-7 7"/><path d="M869 380h17m-7-7 7 7-7 7"/></g>
+  <path d="M1018 517 Q603 568 184 517" fill="none" stroke="url(#edge)" stroke-width="3" stroke-dasharray="9 9" stroke-linecap="round"/>
+  <path d="m176 510 7 7 9 -5" fill="none" stroke="#a992ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="602" y="558" text-anchor="middle" fill="#c9d2e7" font-size="17" font-family="Arial,Helvetica,sans-serif" letter-spacing="2.6" font-weight="700">LEARN · ITERATE · REPEAT</text>
+</svg>
